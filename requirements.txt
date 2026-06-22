@@ -1,0 +1,7 @@
+scrapy==2.12.0
+beautifulsoup4
+itemadapter
+twisted<24
+selenium
+undetected-chromedriver
+curl_cffi

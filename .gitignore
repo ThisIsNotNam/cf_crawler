@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+test*
+debug_contests.html
+output/
+output.bak/
+.selenium_profile/
